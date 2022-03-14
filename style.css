@@ -1,0 +1,34 @@
+
+        .containerOne {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            background-color: black;
+           
+        }
+        .logo {
+            font-size: 50pt;
+            background-color:purple;
+            color:white;
+
+        }
+        .menu {
+            background-color:black;
+            color:white;
+        }
+        .github {
+            background-color:black;
+            color:white;
+        }
+        .google {
+            background-color:black;
+            color:white;
+        }
+        .contact {
+            background-color:black;
+            color:white;
+        }
+        .login {
+            background-color:black;
+            color:white;
+        }
